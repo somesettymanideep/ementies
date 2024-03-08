@@ -9427,7 +9427,7 @@ blockquote,
 .themelink,
 body .ui-dialog[aria-describedby="ajax-login-register-login-dialog"] .ui-dialog-titlebar .ui-dialog-title,
 body .ui-dialog[aria-describedby="ajax-login-register-dialog"] .ui-dialog-titlebar .ui-dialog-title {
-    color: #000000;
+    color: #402918;
 }
 body.page.page-template-gallery-archive-split-screen-php #fp-nav li .active span,
 body.tax-gallerycat #fp-nav li .active span,
@@ -10467,4 +10467,8 @@ p.price ins span.amount,
 **/
 .hasbg{
 	background-color:#faab35!important;
+}
+.yellow{
+	background-color:#faab35!important;
+
 }
