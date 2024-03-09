@@ -10474,5 +10474,8 @@ p.price ins span.amount,
 }
 .iframe-youtube{
 	width:100%;
-	height:450px!important;
+	/* height:450px!important; */
+}
+.padding-top{
+	padding-top: 60px!important;
 }

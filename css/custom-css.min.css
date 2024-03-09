@@ -851,7 +851,7 @@ body.rtl .custom-css-style .elementor-element.elementor-element-6f23744 {
     font-size: 22px;
     font-weight: 500;
     letter-spacing: 3px;
-    background-color: rgba(2, 1, 1, 0);
+    background-color:#faab35;
     padding: 0
 }
 
@@ -2808,7 +2808,7 @@ body.elementor-page-3359 {
 
 .custom-css-style .elementor-element.elementor-element-5a185d2:not(.elementor-motion-effects-element-type-background),
 .custom-css-style .elementor-element.elementor-element-5a185d2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #000
+    background-color: #402918;
 }
 
 .custom-css-style .elementor-element.elementor-element-5a185d2 {
@@ -6145,7 +6145,7 @@ body.elementor-page-3549>.elementor-motion-effects-container>.elementor-motion-e
 .custom-css-style .elementor-element.elementor-element-1ef6e22:not(.elementor-motion-effects-element-type-background),
 .custom-css-style .elementor-element.elementor-element-1ef6e22>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: #000;
-    background-image: url(../upload/fresh-coffee-with-croissant-DC7H79J.jpg);
+    background-image: url(../upload/home/menu-banner-two.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
