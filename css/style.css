@@ -10479,3 +10479,11 @@ p.price ins span.amount,
 .padding-top{
 	padding-top: 60px!important;
 }
+.whatsapp{
+    position: fixed;
+    
+    right: 10px;
+    bottom: 90px;
+    z-index: 99;
+
+}
