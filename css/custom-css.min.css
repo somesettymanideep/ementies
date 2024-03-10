@@ -1622,7 +1622,8 @@ body.rtl .custom-css-style .elementor-element.elementor-element-20a7022 {
     .custom-css-style .elementor-element.elementor-element-b560130>.elementor-motion-effects-container>.elementor-motion-effects-layer {
         background-position: top center;
         background-repeat: no-repeat;
-        background-size: contain
+        background-size: contain;
+       
     }
 
     .custom-css-style .elementor-element.elementor-element-b560130 {
@@ -6730,7 +6731,7 @@ body.rtl .custom-css-style .elementor-element.elementor-element-5b05cd1 {
 
 .custom-css-style .elementor-element.elementor-element-c7d144f:not(.elementor-motion-effects-element-type-background),
 .custom-css-style .elementor-element.elementor-element-c7d144f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #1e1d19
+    background-color:#443125!important;
 }
 
 .custom-css-style .elementor-element.elementor-element-c7d144f {
@@ -6816,7 +6817,7 @@ body.rtl .custom-css-style .elementor-element.elementor-element-8af6019 {
 
 .custom-css-style .elementor-element.elementor-element-9229aee:not(.elementor-motion-effects-element-type-background),
 .custom-css-style .elementor-element.elementor-element-9229aee>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #000
+    background-color: #402918;
 }
 
 .custom-css-style .elementor-element.elementor-element-9229aee {
@@ -6943,7 +6944,7 @@ body.rtl .custom-css-style .elementor-element.elementor-element-8af6019 {
 
 .custom-css-style .elementor-element.elementor-element-3374de8:not(.elementor-motion-effects-element-type-background),
 .custom-css-style .elementor-element.elementor-element-3374de8>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #000
+    background-color:#402918!important;
 }
 
 .custom-css-style .elementor-element.elementor-element-3374de8 {
@@ -8702,7 +8703,7 @@ body.elementor-page-3768>.elementor-motion-effects-container>.elementor-motion-e
 
 .custom-css-style .elementor-element.elementor-element-0402a64:not(.elementor-motion-effects-element-type-background)>.elementor-column-wrap,
 .custom-css-style .elementor-element.elementor-element-0402a64>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url(../upload/home/aboutpage.png);
+    background-image: url(../upload/home/franchise-about.png);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover
