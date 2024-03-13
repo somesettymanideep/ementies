@@ -10487,3 +10487,15 @@ p.price ins span.amount,
     z-index: 99;
 
 }
+label{
+	font-family: "sans serif"!important;
+	font-weight: 700;
+}
+.call{
+	position: fixed;
+    
+    right: 10px;
+    bottom: 25%;
+    z-index: 99;
+
+}
